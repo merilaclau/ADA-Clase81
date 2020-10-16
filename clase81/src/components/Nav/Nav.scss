@@ -1,0 +1,17 @@
+.nav {
+    background-color: pink;
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    height: calc(100vh - 100px);
+    width: 300px;
+    margin: 0;
+    padding: 10px 20px;
+    a, input, span {
+        color: hotpink;
+        font-size: larger;
+        padding: 10px 20px;
+    }
+}
