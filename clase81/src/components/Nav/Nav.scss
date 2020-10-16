@@ -14,4 +14,12 @@
         font-size: larger;
         padding: 10px 20px;
     }
+    input {
+        border: 1px solid hotpink;
+        width: 200px;
+        margin: 0 20px;
+        &:focus {
+            outline: none;
+        }
+    }
 }

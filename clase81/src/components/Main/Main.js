@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Main.scss';
-import cats from './img/cats.png';
+import cats from './img/cat2.png';
 import cat from './img/cat.png';
 
 const Main = () => {
